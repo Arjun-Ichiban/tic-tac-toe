@@ -5,6 +5,7 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
+    assetPrefix: '/tic-tac-toe/',
 }
 
 module.exports = nextConfig 
